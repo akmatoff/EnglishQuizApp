@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">English Quiz</string>
+    <string name="welcome_text">Welcome to the English Quiz! \n Here you\'re going to try to pass some quiz. \n Try to get the max score!
+    \n Press \"START\" to start the quiz!</string>
+    <string name="start_button_text">START</string>
+    <string name="score_text">Score: </string>
+    <string name="time_left_text">00:30</string>
+    <string name="confirm_text">CONFIRM</string>
+    <string name="highscore_text">Highscore: </string>
+    <string name="about_text">
+        The app was designed by a student from HTC who\'ve dreamed to design an app just for fun.
+        \n In the future he\'s going to make some other applications for phones.
+        \n One of the coming app is - The History of Kyrgyzstan Book with BAT Inc.
+    </string>
+    <string name="about_button_text">ABOUT</string>
+</resources>
