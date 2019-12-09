@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/score_text"
         android:layout_marginLeft="10dp"
-        android:text="Вопрос: 1/x"
+        android:text="Question: 1/x"
         android:textColor="#fff" />
 
     <TextView
